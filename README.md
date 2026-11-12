@@ -18,3 +18,4 @@ These files are ADDITIONS to the existing GitHub Pages repository, not a replace
 - No backend or form storage is included. Enquiries use WhatsApp or email links.
 - No files have been committed or deployed to GitHub.
 - The existing homepage has not been edited because its current source was not available for safe integration.
+- Website deployment check - 12 November 2026
