@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://rganmiloya-art.github.io/MILYAS-FIRM/sitemap.xml
